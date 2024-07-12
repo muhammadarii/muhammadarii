@@ -17,7 +17,7 @@
  
  🔭 I’m currently working on **a website**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Firebase, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/muhammadarii)**
 
