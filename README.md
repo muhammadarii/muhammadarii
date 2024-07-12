@@ -6,6 +6,20 @@
 
 <h3 align="center">A passionate software developer from Indonesia</h3>
 
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a website**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/muhammadarii)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
 
 
 <!--
