@@ -19,7 +19,7 @@
  
  🌱 I’m currently learning **Docker, AWS, Go**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/muhammadarii)**
+💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/muhammadarii)**
 
  </div>
 
