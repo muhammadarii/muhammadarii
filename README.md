@@ -2,51 +2,31 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Ari!;" />
 </h1>
 
-<h3 align="center">A passionate software engineer from Indonesia</h3>
+for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 
-<br/>
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-<div align="center">
- 
- 🎨 Coding is Art.
- 
- 🌱 I'm learning every time, every where.
+```txt
+TypeScript   45 mins         █████████████████████████   99.94 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
 
- 📱 I'm a FrontEnd Developer.
+<!--END_SECTION:waka-->
 
-💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/muhammadarii)**
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
- </div>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<div align="center"> 
-  <a href="mailto:aripurnomo606@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://portfolio-v2-me.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadarii&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarii&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
 
+📈 my github stats
 
-<!--
-**muhammadarii/muhammadarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
