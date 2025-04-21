@@ -6,7 +6,7 @@
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with JS, TS, PHP, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, Phyton, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, Phyton, go, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/muhammadarii)! I am happy to help.
 - 📫 &nbsp; Reach me out: aripurnomo606@gmail.com.
 
