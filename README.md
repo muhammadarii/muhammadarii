@@ -7,7 +7,7 @@
 
 - 🛠 &nbsp; I’m currently working with JavaScript, TypeScript, PHP, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Phyton, Go, etc.
-- 🚀 &nbsp; I’m currently technology Reactjs, NextJs, Prisma, NodeJs, etc.
+- 🚀 &nbsp; I’m currently technology Reactjs, NextJs, Expressjs, NodeJs, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/muhammadarii)! I am happy to help.
 - 📫 &nbsp; Reach me out: aripurnomo606@gmail.com.
 
